@@ -13,6 +13,7 @@ import { Steps } from 'primereact/steps';
 import { ROLES } from '../components/dataitems';
 
 const ViewEditTable = () => {
+  var = x;
   const [data, setData] = useState([]);
   const router = useRouter();
   const { user, isLoading } = useUser();
