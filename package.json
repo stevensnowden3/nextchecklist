@@ -66,6 +66,7 @@
     "reactstrap": "^9.1.5",
     "sequelize": "^6.28.0",
     "sequelize-cli": "^6.5.2",
+    "sourcemap-codec": "^1.4.8",
     "tinymce": "^6.3.1",
     "tls": "^0.0.1",
     "v8": "^0.1.0",
