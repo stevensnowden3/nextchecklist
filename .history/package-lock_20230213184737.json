@@ -32,6 +32,7 @@
         "html2pdf.js": "^0.10.1",
         "http-proxy-middleware": "^2.0.6",
         "isomorphic-unfetch": "^4.0.2",
+        "@jridgewell/sourcemap-codec",
         "jspdf": "^2.5.1",
         "jspdf-autotable": "^3.5.28",
         "jwks-rsa": "^3.0.0",
